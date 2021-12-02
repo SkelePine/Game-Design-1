@@ -1,0 +1,60 @@
+1.	Write the title of your project.
+
+Marathon Runner
+
+
+2.	What is the goal of the game? 
+
+Complete the Marathon
+
+
+3.	Write a brief story of your game.
+
+John has been training for years to complete his first ever marathon. Help John complete his first marathon by making sure he stays hydrated, and does not get tired. 
+John’s goal is to complete the Marathon. The marathon will get harder as the game progresses since John would be tired since he has already ran for a while.
+ 
+
+
+ 
+4.	Which are the playing characters of this game? 
+●	Playing characters are the ones who respond to the user based on the input from the user.
+●	Cars, monkeys, dinos, wizards, etc., are the playing characters in the game.  
+
+Number	Character Name	What can this character do?
+1	          John: 	    You can move him across the marathon track.
+2		
+ 
+6.	Which are the Non-Playing Characters of this game?
+●	Non-Playing characters are the ones that don't have an action or behavior when the user interacts with the game.
+●	Hurdles, stones, bananas, coins, etc., are non-playing characters in the game.   
+
+Number	Character Name	What can this character do?
+1	        Water Bottle	This character will be displayed across the screen and John will try to collect it. It will help him stay hydrated
+2	         Food      	  This character will be displayed across the screen and John will try to collect it. It will help him not be fatiuged 
+3	      Hydration Bar	  Shows his hydration level. If the bar runs out he losses the marathon.
+4	        Food Bar	    Shows his hunger level. If the bar runs out he losses the marathon.
+5		
+6		
+7		
+8		
+
+
+Draw your imagination of this game. What does this game look like?
+●	Draw the game either on your computer or on paper. 
+●	Add images of the game scenes to show each of the playing and non-playing characters at least once.  
+The game will consist of 1 player, John, who is controlled by the player. The player can move him right and left, and will help him collect food and water to assist
+him to complete the marathon. If he does not collect enough food/water he will fail beating the marathon
+How do you plan to make your game engaging? 
+The game will get harder as it progresses, which would want the player to beat it. The game will summon food and water to collect, encouraging the player to collect it. 
+The game is not too easy or too hard, which would engage the player.
+
+
+Identify the device your player will play on:
+Laptop/Computer
+
+Select the tools you will use to make your game. (Options: VS Code or Code.org)
+VS code
+
+Identify and collect the libraries that would be required:
+Boilerplate
+
